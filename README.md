@@ -115,6 +115,7 @@ plot_animation(n, [m]*n, k_matrix, initial_displacements, initial_velocities)
 │   └── Figure_2.png
 ├── src/
 │   ├── coupled_oscillators.py     # General n-oscillator simulation
+├── requirements.txt               # Python dependencies
 ├── report.tex                     # Report
 └── README.md                      # This file
 ```
